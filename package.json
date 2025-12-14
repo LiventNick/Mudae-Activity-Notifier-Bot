@@ -1,0 +1,16 @@
+{
+  "name": "discord-keyword-slasher",
+  "version": "1.0.0",
+  "description": "Discord bot that pings a role on specific $ keywords or slash commands with cooldown",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
