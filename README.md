@@ -28,7 +28,7 @@
 
 ```bash
 git clone https://github.com/LiventNick/Mudae-Activity-Notifier-Bot.git
-cd discord-keyword-slasher
+cd Mudae-Activity-Notifier-Bot
 ```
 
 2. Install dependencies:
